@@ -15,8 +15,7 @@ else if (sayi < 0)
 {
     Console.WriteLine($"Kontrol edilen '{sayi}' sayısı negatif.");
 }
-else
-{
+else{
     Console.WriteLine("Kontrol edilen sayı sıfırdır.");
 }
 
