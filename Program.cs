@@ -2,6 +2,7 @@
 
 
 // 1. SORU 
+Console.WriteLine("POZİTİF NEGATİF SAYI KONTROLÜ ");
 Console.Write("Kontrol edilecek sayıyı giriniz: ");
 double sayi = Convert.ToDouble(Console.ReadLine());
 
